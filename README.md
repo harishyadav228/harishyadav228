@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lokapally Harish</h1>
 <h3 align="center">A passionate frontend developer, UI/UX Design and Graphic design</h3>
 
+![image](https://github.com/harishyadav228/harishyadav228/assets/154680600/4604a3f7-bb2f-47bb-92d0-ff85f9fadf47)
 
 
 
