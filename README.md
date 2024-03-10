@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lokapally Harish</h1>
 <h3 align="center">A passionate frontend developer, UI/UX Design and Graphic design</h3>
 
-![image](https://github.com/harishyadav228/harishyadav228/assets/154680600/4604a3f7-bb2f-47bb-92d0-ff85f9fadf47)
-
-
+<img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harishyadav228&label=Profile%20views&color=0e75b6&style=flat" alt="harishyadav228" /> </p>
