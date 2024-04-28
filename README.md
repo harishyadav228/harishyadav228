@@ -90,9 +90,9 @@
 <br/>
 
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harishyadav228&show_icons=true&locale=en&layout=compact" alt="harishyadav228" width="400" />
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=harishyadav228&show_icons=true&locale=en" alt="harishyadav228" width="400" />
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=harishyadav228&" alt="harishyadav228" width="400" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harishyadav228&show_icons=true&locale=en&layout=compact" alt="harishyadav228" width="300" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=harishyadav228&show_icons=true&locale=en" alt="harishyadav228" width="300" />
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=harishyadav228&" alt="harishyadav228" width="300" />
 </p>
 
 
