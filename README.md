@@ -65,7 +65,7 @@
 
  
  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" width="40" height="40"/> 
  </a> 
  
  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
@@ -97,7 +97,11 @@
 </a> 
 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Adobe_Photoshop_CS6_icon.svg/1200px-Adobe_Photoshop_CS6_icon.svg.png" alt="photoshop" width="40" height="40"/> 
+</a> 
+
+<a href="https://https://nextjs.org/" target="_blank" rel="noreferrer"> 
+ <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" width="40" alt="NextJS" height="40"/> 
 </a> 
 
 </p>
