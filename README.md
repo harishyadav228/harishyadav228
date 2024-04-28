@@ -101,9 +101,7 @@
  </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harishyadav228&show_icons=true&locale=en&layout=compact" alt="harishyadav228" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harishyadav228&show_icons=true&locale=en" alt="harishyadav228" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harishyadav228&" alt="harishyadav228" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=harishyadav228&show_icons=true&locale=en" alt="harishyadav228" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=harishyadav228&" alt="harishyadav228" /></p>
 
 
