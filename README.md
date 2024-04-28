@@ -27,12 +27,14 @@
  
 
 
+
 <h1 align="center">Hi 👋, I'm Lokapally Harish</h1>
 <h3 align="center">A passionate frontend developer, UI/UX Design and Graphic design</h3>
 
 
 
 
+ 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
 
@@ -109,6 +111,10 @@
  
  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+ </a>
+
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png?20230715030042" alt="tailwindcss" width="40" height="40"/>
  </a>
 
  </p>
