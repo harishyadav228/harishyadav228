@@ -14,9 +14,9 @@
 <br/>
 <br/>
 <p> 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="450">
- <img align="right" src="https://reactiongifs.me/cdn-cgi/imagedelivery/S36QsAbHn6yI9seDZ7V8aA/73ef12c9-03a3-4faa-15de-b7ae05a96500/w=320" width="450">
-  <img align="right" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*kzyNlgVr0S1rqESP39OQbg.gif" width="450">
+<img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400">
+ <img align="right" src="https://reactiongifs.me/cdn-cgi/imagedelivery/S36QsAbHn6yI9seDZ7V8aA/73ef12c9-03a3-4faa-15de-b7ae05a96500/w=320" width="400">
+  <img align="right" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*kzyNlgVr0S1rqESP39OQbg.gif" width="400">
   <p/>
 
 
