@@ -29,7 +29,7 @@
 
 - 👨‍💻 All of my portfolio are available at  https://lokapallyharishdesign.netlify.app/ 
 
-- 📫 How to reach me **harishyadav.13579@gmail.com**
+- 📫 How to reach me **18021de028.lokapallyharish@gmail.com**
 
 - ⚡ Fun fact **I think I am Funny 🤷‍♂️**
 
