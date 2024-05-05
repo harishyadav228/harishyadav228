@@ -48,6 +48,9 @@
  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
   <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
  </a> 
+   <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> 
+  <img src="https://www.svgrepo.com/show/376337/node-js.svg" alt="node.js" width="40" height="40"/> 
+ </a> 
  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" width="40" height="40"/> 
  </a> 
