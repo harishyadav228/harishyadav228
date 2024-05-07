@@ -27,7 +27,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harishyadav228&label=Profile%20views&color=0e75b6&style=flat" alt="harishyadav228" /> </p>
 
-- 👨‍💻 All of my portfolio are available at <br/> https://lhy-design.netlify.app/ 
+- 👨‍💻 All of my portfolio are available at <br/> www.lhy-design.xyz
 
 - 📫 How to reach me  <br/> **18021de028.lokapallyharish@gmail.com**
 
